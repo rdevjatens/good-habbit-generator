@@ -1,0 +1,22 @@
+{
+  "name": "good-habbit-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rdevjatens/good-habbit-generator.git"
+  },
+  "author": "Romalds Devjatens",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rdevjatens/good-habbit-generator/issues"
+  },
+  "homepage": "https://github.com/rdevjatens/good-habbit-generator#readme",
+  "dependencies": {
+    "jquery": "^3.5.1"
+  }
+}
